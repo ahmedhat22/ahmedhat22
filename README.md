@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ahmed Medhat
 
-<!--
-**ahmedhat22/ahmedhat22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web tools with Google AI Studio, turning everyday office work into simple, useful apps.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data analysis and reporting tools
+- HR and employee management systems
+- Forms and survey management
+- Media and audio players
+
+## Tools
+
+Kotlin · JavaScript · HTML · Google AI Studio
+
+## Current focus
+
+Keeping my AI Studio projects backed up and organized here on GitHub.
